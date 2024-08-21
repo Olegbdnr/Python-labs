@@ -1,2 +1,1 @@
-# python-labs
-Python labs
+Linked list implementation
