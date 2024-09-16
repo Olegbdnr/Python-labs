@@ -17,7 +17,7 @@ def main():
     list.search(8, 2)
     list.remove_by_id(1)
     list.get_all()
-    print(list.distance_between_first_and_last())
+    print("Distance between first and last =", list.distance_between_first_and_last())
 
 
 if __name__ == '__main__':
